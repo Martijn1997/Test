@@ -3,6 +3,7 @@ package exceptions;
 import be.kuleuven.cs.som.annotate.*;
 
 //werktdit?
+//nuwel?
 /**
  * A class for signaling illegal food amounts.
  * 
